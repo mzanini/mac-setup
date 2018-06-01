@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "Installing zsh via homebrew...."
-brew install zsh
+brew install zsh autojump
 
 echo "Installing Oh-My-Zsh"
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
