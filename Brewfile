@@ -10,4 +10,5 @@ brew "rbenv"
 brew "redis", restart_service: true
 brew "zsh"
 brew "heroku/brew/heroku"
+cask "dropbox"
 cask "firefox"
