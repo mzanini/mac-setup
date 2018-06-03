@@ -1,5 +1,9 @@
 # mac-setup
 
+```
+xcode-select --install
+```
+
 Generate a Brewfile with all the dependencies:
 ```
 brew bundle dump
