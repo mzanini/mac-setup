@@ -2,6 +2,7 @@
 
 ```
 xcode-select --install
+sudo xcode-select --switch /Library/Developer/CommandLineTools
 ```
 
 Generate a Brewfile with all the dependencies:
