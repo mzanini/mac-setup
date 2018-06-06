@@ -8,6 +8,7 @@ brew "git"
 brew "node"
 brew "rbenv"
 brew "redis", restart_service: true
+brew "yarn"
 brew "zsh"
 brew "heroku/brew/heroku"
 cask "dropbox"
