@@ -6,6 +6,7 @@ tap "homebrew/services"
 brew "autojump"
 brew "git"
 brew "node"
+brew "nvm"
 brew "rbenv"
 brew "redis", restart_service: true
 brew "yarn"
