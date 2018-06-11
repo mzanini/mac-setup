@@ -7,6 +7,7 @@ brew "autojump"
 brew "git"
 brew "node"
 brew "nvm"
+brew "python@2"
 brew "rbenv"
 brew "redis", restart_service: true
 brew "yarn"
