@@ -10,6 +10,9 @@ export ZSH=_HOME_DIRECTORY_/.oh-my-zsh
 export NVM_DIR="$HOME/.nvm"
 . "/usr/local/opt/nvm/nvm.sh"
 
+# Additional environment variables
+export EDITOR="/usr/bin/vim"
+
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
