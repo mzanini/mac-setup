@@ -4,7 +4,7 @@
 source ~/.bash_profile
 
 # Path to your oh-my-zsh installation.
-export ZSH=_HOME_DIRECTORY_/.oh-my-zsh
+export ZSH="$HOME/.oh-my-zsh"
 
 # nvm configuration from homebrew
 export NVM_DIR="$HOME/.nvm"
