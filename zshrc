@@ -12,6 +12,7 @@ export NVM_DIR="$HOME/.nvm"
 
 # Additional environment variables
 export EDITOR="/usr/bin/vim"
+export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk"
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
